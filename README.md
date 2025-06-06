@@ -1,3 +1,3 @@
 # Ola-s-Portfolio
-Data Analytics: this portfolio will be used to track my progress on Environmental Research Analytics.
-# PROJECT 1: User Research for AltHub
+This portfolio will document my journey and progress in learning Python for Data Analytics.
+# PROJECT 1: Using Fundamental Python Concepts  
